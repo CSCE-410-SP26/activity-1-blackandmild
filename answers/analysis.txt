@@ -380,4 +380,4 @@ OK
 ALL TESTS PASSED
 $  
 
-usertests took long about 3 minutes to run. it checked some instructions
+usertests took long about 3 minutes to run. it checked some instructions and ran it. 
