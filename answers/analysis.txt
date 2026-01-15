@@ -1,3 +1,22 @@
 1. Number of files in root directory: 26
 2. Available user programs in xv6: 21
 
+$ forktest
+fork test
+fork test OK
+
+fork test took no time and it outputted OK
+
+stressfs starting
+write 0
+wriwriwrwirteitett 1e  32
+e
+ 
+4
+read
+read
+read
+read
+read
+
+stressfs took maybe a second to complete an it read.
